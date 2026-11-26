@@ -1,0 +1,18 @@
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: "Hiragino Sans", "Noto Sans JP", sans-serif; line-height: 1.8; color: #222; background: #fff; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+header { border-bottom: 1px solid #ddd; padding: 12px 0; }
+.site-title { font-size: 1.3rem; font-weight: bold; margin: 0; }
+.site-title a { color: #222; text-decoration: none; }
+nav { margin-top: 6px; }
+nav a { margin-right: 16px; color: #3366cc; text-decoration: none; font-size: 0.9rem; }
+main { padding: 24px 0 40px; }
+h1 { font-size: 1.5rem; line-height: 1.5; }
+h2 { font-size: 1.2rem; border-left: 4px solid #3366cc; padding-left: 8px; margin-top: 2em; }
+.post-list { list-style: none; padding: 0; }
+.post-list li { border-bottom: 1px solid #eee; padding: 14px 0; }
+.post-list a { font-weight: bold; color: #3366cc; text-decoration: none; }
+.post-list p { margin: 4px 0 0; color: #555; font-size: 0.92rem; }
+.pr-box { background: #f7f7f7; border: 1px solid #ddd; padding: 10px 14px; font-size: 0.88rem; color: #555; margin: 16px 0; }
+footer { border-top: 1px solid #ddd; padding: 16px 0; font-size: 0.85rem; color: #666; }
